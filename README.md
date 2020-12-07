@@ -1,19 +1,19 @@
 # MrjobRecommander
 Build Recommander system with mrjob in python
 
-Install with pip:
+- Install with pip:
 
-pip install mrjob
+     pip install mrjob
 
 or from a git clone of the source code:
 
-python setup.py test && python setup.py install
+- python setup.py test && python setup.py install
 
-Writing your first job
+   Writing your first job
 
-Open a file called mr_word_count.py and type this into it:
+   Open a file called mr_word_count.py and type this into it:
 
-from mrjob.job import MRJob
+# from mrjob.job import MRJob
 
 
 class MRWordFrequencyCount(MRJob):
