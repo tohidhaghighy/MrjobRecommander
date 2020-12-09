@@ -38,6 +38,6 @@ You should see something like this:
 
 "chars" 3654
 "lines" 123
-"words" 417
+"words" 416
 
 Congratulations! You’ve just written and run your first program with mrjob.
